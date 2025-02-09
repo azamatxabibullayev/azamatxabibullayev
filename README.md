@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h2>I’m a Python backend developer</h2><br><br>This is my portfolio website: https://xabibullayev.uz/
+<h2>I’m a Python backend developer</h2>
 
 
 # 💻 Tech Stack:
