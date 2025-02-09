@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a Python backend developer with experience in FastAPI, Django, REST API, Docker, and AWS.<br><br>How I Can Help:<br>Backend Development: I specialize in building APIs with FastAPI and Django.<br>Database Management: I’ve worked with databases like PostgreSQL and MySQL.<br>Deployment: I use Docker and AWS to deploy applications efficiently.<br>I’d love to discuss your project further and how I can contribute. Looking forward to hearing from you!<br><br>This is my portfolio website: https://xabibullayev.uz/
+I’m a Python backend developer<br><br>This is my portfolio website: https://xabibullayev.uz/
 
 
 # 💻 Tech Stack:
