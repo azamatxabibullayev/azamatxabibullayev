@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h2>I’m a Python backend developer</h2>
+<h1>I’m a Python backend developer</h1>
 
 
 # 💻 Tech Stack:
