@@ -9,11 +9,7 @@ Python Backend Developer based in Tashkent, Uzbekistan
 
 ## About Me
 
-I build backend systems and automation with **Django** and **FastAPI** — REST APIs, Telegram bots, and VoIP integrations. Currently developing custom **Odoo** modules at Premier Uzbekistan.
-
-- 🔭 Currently working on Odoo modules @ **Premier Uzbekistan**
-- 🐍 Backend development with **Django** & **FastAPI**
-- 📍 Based in Tashkent, Uzbekistan
+I'm a Python Backend Developer specializing in FastAPI, Django, and database design (PostgreSQL, MySQL). I also build Telegram bots, work with Asterisk VoIP systems, and develop custom Odoo modules.
 
 ---
 
@@ -25,11 +21,6 @@ I build backend systems and automation with **Django** and **FastAPI** — REST 
 
 ## GitHub Stats
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=azamatxabibullayev&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azamatxabibullayev&theme=dark&hide_border=true&layout=compact" />
-</p>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=azamatxabibullayev&theme=dark&hide_border=true" />
 
 ---
@@ -38,4 +29,5 @@ I build backend systems and automation with **Django** and **FastAPI** — REST 
 
 [![Portfolio](https://img.shields.io/badge/xabibullayev.uz-111110?style=for-the-badge&logo=firefox&logoColor=white)](https://xabibullayev.uz)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/why_azamat)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/why_azamat/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azamatxabibullayev/)
