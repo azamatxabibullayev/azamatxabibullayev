@@ -19,12 +19,6 @@ I'm a Python Backend Developer specializing in FastAPI, Django, and database des
 
 ---
 
-## GitHub Stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=azamatxabibullayev&theme=dark&hide_border=true" />
-
----
-
 ## Connect
 
 [![Portfolio](https://img.shields.io/badge/xabibullayev.uz-111110?style=for-the-badge&logo=firefox&logoColor=white)](https://xabibullayev.uz)
