@@ -19,7 +19,7 @@ I'm a Python Backend Developer specializing in FastAPI, Django, and database des
 
 ---
 
-## Connect
+## Contact Me
 
 [![Portfolio](https://img.shields.io/badge/xabibullayev.uz-111110?style=for-the-badge&logo=firefox&logoColor=white)](https://xabibullayev.uz)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/why_azamat)
